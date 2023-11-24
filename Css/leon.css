@@ -142,7 +142,7 @@ body{
 /* End Header */
 /* Start Lading Section */
 .landing{
-    background-image: url(images/landing.jpeg);
+    background-image: url(landing.jpeg);
     background-size: cover;
     height: calc(100vh - 64px);
     position: relative;
